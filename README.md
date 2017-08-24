@@ -1,1 +1,1 @@
-# splashdev_live
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
