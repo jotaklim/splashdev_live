@@ -1,5 +1,0 @@
-AuthName "please log-in"
-AuthType Basic
-AuthUserFile /wp-admin/.htpasswd
-AuthGroupFile /dev/null
-require valid-user
